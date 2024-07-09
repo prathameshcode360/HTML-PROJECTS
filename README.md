@@ -14,10 +14,11 @@ Each project is designed using HTML and may include CSS for basic styling. Below
 
 ## 1. Resume Project
 
-**Description:** 
+**Description:**
 A web page built using HTML to create a resume. It includes sections for personal information, education, experience, and skills.
 
 **Features:**
+
 - Structured layout for easy readability.
 - Customizable sections for personal details, experience, and skills.
 
@@ -29,6 +30,7 @@ A web page built using HTML to create a resume. It includes sections for persona
 A simple web page for inviting people to an event. It includes event details, RSVP form, and location map.
 
 **Features:**
+
 - Event details section with date, time, and location.
 - RSVP form to collect attendee information.
 - Google Maps embed for displaying event location.
@@ -41,6 +43,7 @@ A simple web page for inviting people to an event. It includes event details, RS
 A website to showcase personal work, skills, and projects. It includes sections like About Me, Projects, Blog, and Contact.
 
 **Features:**
+
 - About Me section with a brief introduction.
 - Projects section for showcasing personal projects.
 - Blog section for publishing articles.
@@ -54,6 +57,7 @@ A website to showcase personal work, skills, and projects. It includes sections 
 A simple blog template designed to publish articles. It includes features like a blog post list, individual post pages, and a comment section.
 
 **Features:**
+
 - Homepage with a list of recent blog posts.
 - Individual post pages with detailed content.
 - Comment section for readers to leave comments.
@@ -66,6 +70,7 @@ A simple blog template designed to publish articles. It includes features like a
 An online shopping website with multiple pages for browsing products, managing a shopping cart, and viewing order history.
 
 **Pages:**
+
 - **Homepage:** Displays featured products and navigation links.
 - **Product Page:** Details about a specific product.
 - **Categories Page:** Lists product categories.
@@ -77,3 +82,4 @@ Each project folder contains the respective HTML file(s) along with any necessar
 
 Feel free to explore each project folder for more details and customization options.
 
+this is the change
